@@ -37,7 +37,6 @@ namespace TorqueTrainer
             GearDownPressed = Input.GetKeyDown(gearDownKey);
         }
 
-        // Yardımcı: UI/telemetri için input durumunu sıfırla gerekmez, ama istersen ekleyebilirsin.
     }
 }
 
